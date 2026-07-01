@@ -39,6 +39,5 @@ I am a CSPO-certified Senior Product Owner with 10+ years in fintech, mortgage, 
 ## Connect
 
 - LinkedIn: linkedin.com/in/khushboo-manchanda
-- Email: khushboo.sehgal2110@gmail.com
 
 If you are hesitant to start building AI tools — feel free to reach out!
